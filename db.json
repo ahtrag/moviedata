@@ -1,0 +1,67 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "title": "Chernobyl",
+      "categories": "series",
+      "rating": "70"
+    },
+    {
+      "id": 2,
+      "title": "Game of Throne",
+      "categories": "series",
+      "rating": "75"
+    },
+    {
+      "id": 3,
+      "title": "Mr.Robot",
+      "categories": "series",
+      "rating": "80"
+    },
+    {
+      "id": 4,
+      "title": "Toy Story 4",
+      "categories": "animation",
+      "rating": "70"
+    },
+    {
+      "id": 5,
+      "title": "One Piece",
+      "categories": "series",
+      "rating": "90"
+    },
+    {
+      "id": 6,
+      "title": "Diamon no Ace",
+      "categories": "animation",
+      "rating": "75"
+    },
+    {
+      "id": 7,
+      "title": "Boku no Pico",
+      "categories": "animation",
+      "rating": "99"
+    },
+    {
+      "id": 8,
+      "title": "Orange is New Black",
+      "categories": "series",
+      "rating": "80"
+    },
+    {
+      "id": 9,
+      "title": "John Wick : Parabelum",
+      "categories": "movie",
+      "rating": "75"
+    },
+    {
+      "id": 10,
+      "title": "Hachiko",
+      "categories": "movie",
+      "rating": "70"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
